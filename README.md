@@ -10,7 +10,7 @@ It uses a trained ML model on a dataset from Kaggle, and includes a simple web i
 
 - Frontend: React
 - Backend: Flask + Keras
-- ML Models: KNN, Decision Trees, Random Forest, Neural Networks, AdaBoost
+- ML Models: KNN, Decision Trees, Random Forest, AdaBoost
 - Evaluation metrics: Accuracy, Precision, Recall, F1-Score
 
 ---
